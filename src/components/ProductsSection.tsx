@@ -52,7 +52,7 @@ const ProductsSection = () => {
       color: "from-orange-500 to-yellow-600",
       icon: "🌐",
       glowColor: "shadow-[0_0_30px_rgba(249,115,22,0.3)]",
-      link: "/3D%20bhumi/index.html"
+      link: "/3d-bhumi/index.html"
     },
     {
       name: "NexHR",

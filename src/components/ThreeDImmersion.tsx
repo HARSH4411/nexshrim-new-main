@@ -122,13 +122,13 @@ const ThreeDImmersion = () => {
             <div className="flex justify-center space-x-4 mt-8">
               <button
                 className="bg-gradient-to-r from-blue-500 to-purple-500 px-6 py-3 rounded-xl font-semibold hover:scale-105 transition-transform hover:shadow-[0_0_20px_rgba(59,130,246,0.4)]"
-                onClick={() => window.open('/3D%20bhumi/index.html', '_blank')}
+                onClick={() => window.open('/3d-bhumi/index.html', '_blank')}
               >
                 VR Mode
               </button>
               <button
                 className="bg-gradient-to-r from-green-500 to-teal-500 px-6 py-3 rounded-xl font-semibold hover:scale-105 transition-transform hover:shadow-[0_0_20px_rgba(16,185,129,0.4)]"
-                onClick={() => window.open('/3D%20bhumi/index.html', '_blank')}
+                onClick={() => window.open('/3d-bhumi/index.html', '_blank')}
               >
                 AR Mode
               </button>
